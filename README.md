@@ -275,9 +275,13 @@ Si no se encuentran datos, se muestra un mensaje indicando que el perfil no ha s
 4. Ejecución:
 
 La aplicación se ejecuta mediante el método main, que inicia MyApp.
-Reactividad:
+
+5. Reactividad:
 
 La interfaz se actualiza de manera reactiva cuando se obtienen datos del usuario.
+
+![image](https://github.com/Javi-23/ProyectoAccesoJavaSpring-Flutter/assets/102307312/b7e3b797-fb38-4e2a-a300-3f568a19f610)
+
 
    
 
